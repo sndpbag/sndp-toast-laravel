@@ -400,7 +400,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 ## 🙏 Credits
 
-- **Your Name** - Creator
+- **sandipan kr bag** - Creator
 - All contributors
 
 ## 🌟 Show Your Support
