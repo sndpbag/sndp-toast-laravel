@@ -1,9 +1,9 @@
 # Laravel Toast Notifications
 
 <p align="center">
-<img src="https://img.shields.io/packagist/v/yourvendor/laravel-toast.svg?style=flat-square" alt="Latest Version">
-<img src="https://img.shields.io/packagist/dt/yourvendor/laravel-toast.svg?style=flat-square" alt="Total Downloads">
-<img src="https://img.shields.io/packagist/l/yourvendor/laravel-toast.svg?style=flat-square" alt="License">
+<img src="https://img.shields.io/packagist/v/sndpbag/laravel-toast.svg?style=flat-square" alt="Latest Version">
+<img src="https://img.shields.io/packagist/dt/sndpbag/laravel-toast.svg?style=flat-square" alt="Total Downloads">
+<img src="https://img.shields.io/packagist/l/sndpbag/laravel-toast.svg?style=flat-square" alt="License">
 </p>
 
 A beautiful, feature-rich, and highly customizable toast notification package for Laravel. Built with modern design principles and accessibility in mind.
@@ -32,13 +32,13 @@ A beautiful, feature-rich, and highly customizable toast notification package fo
 Install the package via Composer:
 
 ```bash
-composer require yourvendor/laravel-toast
+composer require sndpbag/laravel-toast
 ```
 
 ### Publish Configuration & Assets
 
 ```bash
-php artisan vendor:publish --provider="YourVendor\LaravelToast\ToastServiceProvider"
+php artisan vendor:publish --provider="sndpbag\LaravelToast\ToastServiceProvider"
 ```
 
 Or publish individually:
@@ -78,7 +78,7 @@ Add this directive before closing `</body>` tag in your layout file:
 ### 2. Use in Controllers
 
 ```php
-use YourVendor\LaravelToast\Facades\Toast;
+use sndpbag\LaravelToast\Facades\Toast;
 
 class UserController extends Controller
 {
