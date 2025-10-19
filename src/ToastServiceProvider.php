@@ -38,7 +38,7 @@ class ToastServiceProvider extends ServiceProvider
         $this->mergeConfigFrom(__DIR__.'/../config/toast.php', 'toast');
 
         // Register Blade directive
-        Blade::directive('toastify', function () {
+        Blade::directive('sndpToast', function () {
             return "<?php echo view('toast::container')->render(); ?>";
         });
     }

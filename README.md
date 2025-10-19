@@ -70,7 +70,7 @@ Add this directive before closing `</body>` tag in your layout file:
     
     <!-- Your content -->
     
-    @toastify
+    @sndpToast
 </body>
 </html>
 ```
@@ -392,7 +392,7 @@ Contributions are welcome! Please see [CONTRIBUTING](CONTRIBUTING.md) for detail
 
 ## 🔒 Security
 
-If you discover any security-related issues, please email your.email@example.com instead of using the issue tracker.
+If you discover any security-related issues, please email your. sndpbagg@gmail.com instead of using the issue tracker.
 
 ## 📄 License
 

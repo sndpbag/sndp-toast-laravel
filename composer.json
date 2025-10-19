@@ -1,6 +1,7 @@
 {
     "name": "sndpbag/laravel-toast",
     "description": "A beautiful and feature-rich toast notification package for Laravel",
+    "version": "1.0.0",
     "keywords": [
         "laravel",
         "toast",
@@ -47,3 +48,4 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true
+}
